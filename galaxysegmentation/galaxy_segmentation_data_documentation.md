@@ -23,4 +23,4 @@ The data labels for the training set were created by using the data labels from 
 
 Chambers K.C., Magnier E.A., Metcalfe N., Flewelling H.A., Huber M.E., Waters C.Z., Denneau L., et al., 2016, arXiv, arXiv:1612.05560. [doi:10.48550/arXiv.1612.05560](https://arxiv.org/abs/1612.05560)
 
-Waters C.Z., Magnier E.A., Price P.A., Chambers K.C., Burgett W.S., Draper P.W., Flewelling H.A., et al., 2020, ApJS, 251, 4. [doi:10.3847/1538-4365/abb82b](https://iopscience.iop.org/article/10.3847/1538-4365/abb82b)
+Waters C.Z., Magnier E.A., Price P.A., Chambers K.C., Burgett W.S., Draper P.W., Flewelling H.A., et al., 2020, Astrophysical Journal Supplement, 251, 4. [doi:10.3847/1538-4365/abb82b](https://iopscience.iop.org/article/10.3847/1538-4365/abb82b)
